@@ -1,6 +1,6 @@
 global.nomerOwner = "6281949157040"
 global.ownerName = "deva-maker"
-global.botName = "Bot Reteam.id"
+global.botName = "Bot By deva-maker"
 global.sessionName = "session" 
 global.runWith = "Termux"
 global.setmenu = "document"
